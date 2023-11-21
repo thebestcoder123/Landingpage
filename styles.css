@@ -3,4 +3,10 @@ background-color: #1F2937;
 height: 100px;
 color: #F9FAF8;
 font-size: 24px;
+display: flex;
+justify-content: space-between;
+}
+.headerlinks {
+    display: flex;
+    justify-content: flex-end;
 }
